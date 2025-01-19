@@ -1,6 +1,6 @@
-<h3>👋 Hola</h3>
+<h3 style="text-align: center">👋 Hola</h3>
 # 💫 About Me:
-Hello! I'm Daniel, a passionate 19-year-old Systems Engineering student from Peru. I’m full of energy and motivation to learn and excel in the world of technology. Since discovering my love for programming, I've dedicated my time to improving my skills and exploring new technologies.
+## Hello! I'm Daniel, a passionate 19-year-old Systems Engineering student from Peru. I’m full of energy and motivation to learn and excel in the world of technology. Since discovering my love for programming, I've dedicated my time to improving my skills and exploring new technologies.
 
 My main goal is to grow professionally and contribute innovative solutions to challenging projects. I’m self-taught, naturally curious, and always looking for opportunities to learn something new every day. I love working in teams, collaborating, and sharing knowledge because I firmly believe that together we can achieve more.
 
