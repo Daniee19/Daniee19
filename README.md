@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hola</h3>
+# 👋 Hola
 # 💫 About Me:
 Hello! I'm Daniel, a passionate 19-year-old Systems Engineering student from Peru. I’m full of energy and motivation to learn and excel in the world of technology. Since discovering my love for programming, I've dedicated my time to improving my skills and exploring new technologies.
 
