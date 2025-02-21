@@ -1,3 +1,5 @@
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniee19&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # 💫 About Me:
 Hello! I'm Daniel, a passionate 19-year-old Systems Engineering student from Peru. I’m full of energy and motivation to learn and excel in the world of technology. Since discovering my love for programming, I've dedicated my time to improving my skills and exploring new technologies.
 
