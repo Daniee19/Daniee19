@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/Daniee19/count.svg)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniee19&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 💫 About Me:
