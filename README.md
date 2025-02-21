@@ -1,8 +1,8 @@
 <div align="center">
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/Daniee19/count.svg"/>
+  <br/>
 </div>
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
