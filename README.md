@@ -4,7 +4,6 @@
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniee19&theme=tokyonight&hide_border=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniee19&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 </div>
