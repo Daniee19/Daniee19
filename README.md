@@ -1,6 +1,11 @@
 <div align="center">
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/Daniee19/count.svg"/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniee19&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniee19&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 </div>
 
@@ -27,11 +32,6 @@ My main goal is to grow professionally and contribute innovative solutions to ch
 
 ## Other
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Daniee19&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Daniee19&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
