@@ -1,18 +1,13 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Daniee19/count.svg"/>
-  <br/>
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniee19&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
-</div>
-
 # 💫 About Me:
 Hello! I'm Daniel, a passionate 20-years-old Systems Engineering student from Peru. I’m full of energy and motivation to learn and excel in the world of technology. Since discovering my love for programming, I've dedicated my time to improving my skills and exploring new technologies.
 
 My main goal is to grow professionally and contribute innovative solutions to challenging projects. I’m self-taught, naturally curious, and always looking for opportunities to learn something new every day. I love working in teams, collaborating, and sharing knowledge because I firmly believe that together we can achieve more.
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniee19&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+</div>
 
 # 💻 Tech Stack:
 ## Languages
@@ -41,4 +36,9 @@ My main goal is to grow professionally and contribute innovative solutions to ch
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Daniee19&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Daniee19"/>
+  <br/>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
