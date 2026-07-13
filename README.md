@@ -1,3 +1,7 @@
+<a href="https://github.com/crafter-station/gh-ascii">
+  <img alt="Daniee19's GitHub profile as ASCII — avatar portrait with live stats" src="dark_mode.svg" width="100%" />
+</a>
+
 # 💫 About Me:
 Hello! I'm Daniel, a passionate 21-years-old Systems Engineering student from Peru. I’m full of energy and motivation to learn and excel in the world of technology. Since discovering my love for programming, I've dedicated my time to improving my skills and exploring new technologies.
 
