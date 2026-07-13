@@ -27,9 +27,6 @@ My main goal is to grow professionally and contribute innovative solutions to ch
 ## Other
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Daniee19&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 <div align="center">
   <p>Visitor count</p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Daniee19"/>
