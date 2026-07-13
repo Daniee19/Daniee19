@@ -7,12 +7,6 @@ Hello! I'm Daniel, a passionate 21-years-old Systems Engineering student from Pe
 
 My main goal is to grow professionally and contribute innovative solutions to challenging projects. I’m self-taught, naturally curious, and always looking for opportunities to learn something new every day. I love working in teams, collaborating, and sharing knowledge because I firmly believe that together we can achieve more.
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniee19&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniee19&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
-</div>
-
 # 💻 Tech Stack:
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
